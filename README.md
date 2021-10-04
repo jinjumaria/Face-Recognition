@@ -6,8 +6,8 @@ In this hands-on project, the goal is to build a face identification model to re
 This dataset contains 10.770 images for 100 people. All images are taken from 'Pinterest' and 
 aligned using dlib library.
 
-https://drive.google.com/file/d/1oRuFBgfZ0If8lqqS24Fxrx-goKByP6yt/view?usp=sharing
-https://drive.google.com/file/d/1G9Wm-8lHc1dDKekHQZ58n63F1IYfSrYV/view?usp=sharing
+* https://drive.google.com/file/d/1oRuFBgfZ0If8lqqS24Fxrx-goKByP6yt/view?usp=sharing
+* https://drive.google.com/file/d/1G9Wm-8lHc1dDKekHQZ58n63F1IYfSrYV/view?usp=sharing
 
 ## Overview
 In this problem, we use a pre-trained model trained on Face recognition to recognize similar 
